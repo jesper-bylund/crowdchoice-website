@@ -17,6 +17,9 @@ export default function Home({ allPostsData }) {
 
           Based on an idea made popular by <a href="https://twitter.com/balajis/status/1307535361149603845">Balajis</a>, read more about it <a href="https://1729.com/miami/">here</a>.
         </p>
+        <p>
+          Join the project by adding PRs, ideas, and discussions <a href="https://github.com/jesper-bylund/crowdchoice-website" target="_new">to the github repo</a>.
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Changelog</h2>
